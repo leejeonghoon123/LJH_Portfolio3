@@ -23,33 +23,37 @@ B2B 웹 서비스를 구축하며 사용자 편의성과 업무 효율을 동시
 ---
 ## 🛠️ SKILL
 
-### 💻 Language
+### 💻 Language  
+<span style="display:inline-block; width:110px; font-weight:bold;">Java</span>
+<span style="display:inline-block; width:110px; font-weight:bold;">JavaScript</span>
+<span style="display:inline-block; width:110px; font-weight:bold;">HTML/CSS</span>
 
-| Java | JavaScript | HTML/CSS |
-|------|------------|----------|
+### 🧩 Framework & Libraries  
+<span style="display:inline-block; width:110px; font-weight:bold;">Spring Boot</span>
+<span style="display:inline-block; width:110px; font-weight:bold;">전자정부프레임워크</span>
+<span style="display:inline-block; width:110px; font-weight:bold;">MyBatis</span><br>
+<span style="display:inline-block; width:110px; font-weight:bold;">JPA</span>
+<span style="display:inline-block; width:110px; font-weight:bold;">QueryDSL</span>
+<span style="display:inline-block; width:110px; font-weight:bold;">Thymeleaf</span><br>
+<span style="display:inline-block; width:110px; font-weight:bold;">jQuery</span>
 
-### 🧩 Framework & Libraries
+### 🗄️ Infrastructure & Databases  
+<span style="display:inline-block; width:110px; font-weight:bold;">Apache</span>
+<span style="display:inline-block; width:110px; font-weight:bold;">Tomcat</span>
+<span style="display:inline-block; width:110px; font-weight:bold;">MySQL</span><br>
+<span style="display:inline-block; width:110px; font-weight:bold;">MSSQL</span>
+<span style="display:inline-block; width:110px; font-weight:bold;">Oracle</span>
+<span style="display:inline-block; width:110px; font-weight:bold;">PostgreSQL</span>
 
-| Spring Boot | 전자정부프레임워크 | MyBatis |
-|-------------|------------------|---------|
-| JPA         | QueryDSL         | Thymeleaf |
-| jQuery      |                  |          |
+### 🔐 Version Control & Tools  
+<span style="display:inline-block; width:110px; font-weight:bold;">SVN</span>
+<span style="display:inline-block; width:110px; font-weight:bold;">GitHub</span>
 
-### 🗄️ Infrastructure & Databases
+### 🧰 Development Tools  
+<span style="display:inline-block; width:110px; font-weight:bold;">IntelliJ IDEA</span>
+<span style="display:inline-block; width:110px; font-weight:bold;">Eclipse</span>
+<span style="display:inline-block; width:110px; font-weight:bold;">DataGrip</span>
 
-| Apache | Tomcat | MySQL |
-|--------|--------|-------|
-| MSSQL  | Oracle | PostgreSQL |
-
-### 🔐 Version Control & Tools
-
-| SVN | GitHub |        |
-|-----|--------|--------|
-
-### 🧰 Development Tools
-
-| IntelliJ IDEA | Eclipse | DataGrip |
-|---------------|---------|----------|
 
 ---
 
