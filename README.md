@@ -1,11 +1,11 @@
 # 📘 이정훈
 
-- 📧 Email: neomail123@naver.com  
-- 📞 Phone: 010-9934-2975  
+- Email  neomail123@naver.com  
+- Phone  010-9934-2975  
 
 ---
 
-## 👋 INTRODUCE
+## INTRODUCE
 
 Java 기반의 3년차 웹 개발자로서, 기업용 백오피스 시스템을 개발하고 운영한 경험이 있습니다.  
 전자계약 시스템(IeumSign), 연말정산 시스템(IeumTax), 급여 시스템(IeumPay) 등  
@@ -21,7 +21,7 @@ B2B 웹 서비스를 구축하며 사용자 편의성과 업무 효율을 동시
 신규 급여 서비스는 `QueryDSL 기반 JPA`를 도입하여 유연하게 대응 가능한 구조를 개발하였습니다.
 
 ---
-## 🛠️ SKILL
+## SKILL
 
 ### 💻 Language  
 <span style="display:inline-block; width:110px; font-weight:bold;">Java</span>
