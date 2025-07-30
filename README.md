@@ -1,4 +1,60 @@
-# 📘 이정훈 경력기술서
+# 📘 이정훈
+
+- 📧 Email: neomail123@naver.com  
+- 📞 Phone: 010-9934-2975  
+
+---
+
+## 👋 INTRODUCE
+
+Java 기반의 3년차 웹 개발자로서, 기업용 백오피스 시스템을 개발하고 운영한 경험이 있습니다.  
+전자계약 시스템(IeumSign), 연말정산 시스템(IeumTax), 급여 시스템(IeumPay) 등  
+B2B 웹 서비스를 구축하며 사용자 편의성과 업무 효율을 동시에 고려한 기능들을 구현해왔습니다.
+
+복잡한 세무 및 급여 데이터를 직관적으로 표현하기 위해 `Wijmo Grid`를 사용하였고,  
+법정 서식 출력이 필요한 화면에서는 `Oz Report`를 활용하여 원천징수영수증, 명세서 등  
+다양한 서식을 제작하여 제공하였습니다.
+
+또한, 고객사의 다양한 인프라 환경에 대응하기 위해  
+`MySQL`, `MSSQL`, `PostgreSQL`, `Oracle` 등 다양한 DBMS를 다뤄본 경험이 있으며,  
+기존 연말정산 서비스는 `MyBatis(XML 매핑 방식)`을 사용하였고,  
+신규 급여 서비스는 `QueryDSL 기반 JPA`를 도입하여 유연하게 대응 가능한 구조를 개발하였습니다.
+
+---
+
+## 🛠️ SKILL
+
+### 💻 Language
+- Java  
+- JavaScript  
+- HTML/CSS  
+
+### 🧩 Framework & Libraries
+- Spring Boot  
+- 전자정부프레임워크  
+- MyBatis  
+- JPA  
+- QueryDSL  
+- Thymeleaf  
+- jQuery  
+
+### 🗄️ Infrastructure & Databases
+- Apache  
+- Tomcat  
+- MySQL  
+- MSSQL  
+- Oracle  
+- PostgreSQL  
+
+### 🔐 Version Control & Tools
+- SVN  
+- GitHub  
+
+### 🧰 Development Tools
+- IntelliJ IDEA  
+- Eclipse  
+- DataGrip  
+
 
 ---
 
