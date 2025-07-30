@@ -21,40 +21,35 @@ B2B 웹 서비스를 구축하며 사용자 편의성과 업무 효율을 동시
 신규 급여 서비스는 `QueryDSL 기반 JPA`를 도입하여 유연하게 대응 가능한 구조를 개발하였습니다.
 
 ---
-
 ## 🛠️ SKILL
 
 ### 💻 Language
-- Java  
-- JavaScript  
-- HTML/CSS  
+
+| Java | JavaScript | HTML/CSS |
+|------|------------|----------|
 
 ### 🧩 Framework & Libraries
-- Spring Boot  
-- 전자정부프레임워크  
-- MyBatis  
-- JPA  
-- QueryDSL  
-- Thymeleaf  
-- jQuery  
+
+| Spring Boot | 전자정부프레임워크 | MyBatis |
+|-------------|------------------|---------|
+| JPA         | QueryDSL         | Thymeleaf |
+| jQuery      |                  |          |
 
 ### 🗄️ Infrastructure & Databases
-- Apache  
-- Tomcat  
-- MySQL  
-- MSSQL  
-- Oracle  
-- PostgreSQL  
+
+| Apache | Tomcat | MySQL |
+|--------|--------|-------|
+| MSSQL  | Oracle | PostgreSQL |
 
 ### 🔐 Version Control & Tools
-- SVN  
-- GitHub  
+
+| SVN | GitHub |        |
+|-----|--------|--------|
 
 ### 🧰 Development Tools
-- IntelliJ IDEA  
-- Eclipse  
-- DataGrip  
 
+| IntelliJ IDEA | Eclipse | DataGrip |
+|---------------|---------|----------|
 
 ---
 
